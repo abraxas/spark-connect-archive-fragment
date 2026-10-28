@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-connect-archive-fragment">spark-connect-archive-fragment</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-connect-archive-fragment"><strong>https://abraxaslabs.tech/research/spark-connect-archive-fragment</strong></a>
+</p>
+
 
 # spark-connect-archive-fragment
 
